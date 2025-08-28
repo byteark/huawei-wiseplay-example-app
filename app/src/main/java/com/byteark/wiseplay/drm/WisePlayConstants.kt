@@ -15,8 +15,8 @@ object WisePlayConstants {
      */
     object SampleContent {
         // Default test content (replace with actual WisePlay DRM content)
-        const val DEFAULT_VIDEO_URL = "https://byteark-dev-video-sample.st-th-1.byteark.com/wiseplay/test02/playlist_wp_single.mpd"
-        const val DEFAULT_LICENSE_URL = "https://byteark-drm.develop.poring.arkcube.com/wp/license/testwiseplayservice/testwiseplay2"
+        const val DEFAULT_VIDEO_URL = "https://byteark-dev-video-sample.st-th-1.byteark.com/wiseplay/big_buck_bunny/playlist.mpd"
+        const val DEFAULT_LICENSE_URL = "https://byteark-drm.develop.poring.arkcube.com/wp/license/testwiseplayservice/bunnywiseplay"
     }
     
     /**

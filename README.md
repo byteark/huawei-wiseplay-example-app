@@ -131,3 +131,9 @@ implementation("androidx.media3:media3-exoplayer-dash:1.8.0")
 implementation("androidx.media3:media3-exoplayer-hls:1.8.0") 
 implementation("androidx.media3:media3-datasource:1.8.0")
 ```
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot_01.jpg)
+![Screenshot 2](screenshots/screenshot_02.jpg)
+![Screenshot 3](screenshots/screenshot_03.jpg)
